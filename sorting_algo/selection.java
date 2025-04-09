@@ -1,3 +1,10 @@
+//selection sort basically works by selecting the minimum elemnt 
+//in seach iteration in the unsorted region
+
+
+//time complexity = O(n^2)
+//space complexity O(1p)
+
 public class selection{
     public int[] sort(int[] nums){
 
