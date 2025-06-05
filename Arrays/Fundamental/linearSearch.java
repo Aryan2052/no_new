@@ -1,6 +1,5 @@
 package Arrays.Fundamental;
 
-import java.util.*;
 
 public class linearSearch {
     public int linearsearch(int nums[], int target) {
